@@ -7,7 +7,7 @@ from mutagen.easyid3 import EasyID3
 
 # Change this path to the folder that is denotated by the artists name
 # which should be applied to all the files under that directory 
-directory = '/media/iamnotus/FreeAgent\ Drive/Music/Music-new-allocation/python-fixed/TestArtist/'
+directory = '/media/iamnotus/FreeAgent\ Drive/Music/Music-new-allocation/python-fixed/Jimi\ Hendrix/'
 
 exts = ['.mp3']
 
